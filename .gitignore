@@ -1,0 +1,4 @@
+node_modules
+.git
+db.js
+config.js
