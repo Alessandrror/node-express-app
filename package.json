@@ -1,14 +1,13 @@
 {
-  "name": "notes-app",
+  "name": "register-login-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This register/login application was builded using JavaScript as a language with NodeJS as an execution environment and its framework ExpressJS.",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch ./src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node --watch ./src/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nodejs", "expressjs", "javascript", "backend"],
+  "author": "Alessandro Rivas",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "2.4.3",

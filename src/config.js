@@ -1,0 +1,5 @@
+const TOKEN_SECRET_KEY = '';
+const URL_DB_CONNECTION = '';
+const SERVER_PORT = '3000';
+
+module.exports = { TOKEN_SECRET_KEY, URL_DB_CONNECTION, SERVER_PORT };
